@@ -2,7 +2,7 @@
 A quick script I whipped up to make a grid from a bottom-left starting waypoint  
 *keyword "whipped" up ;P - alot of stuff will probably break it, most notably negative offsets to flip the grid's location relative to the source point - completely untested.*
 
-# Usage
+## Usage
 ***All of this can be done while the game is running.***  
   
 - While ingame, place a waypoint at the **top left** of where you want your grid to be located, name it something distinguishable from the other waypoints.
@@ -16,12 +16,12 @@ A quick script I whipped up to make a grid from a bottom-left starting waypoint
   
 ***You must relog for the waypoints to take effect once they are generated!***
 
-# Notes
+## Notes
 - Use negative values on either one of the offsets to flip the direction the grid expands in from the source point (UNTESTED).  
 - The colour of the origin waypoint is inherited by all the grid points.
 - It's way easier to delete the grid from the file explorer rather than ingame due to the sheer amount of files.
   
-# Parameters
+## Parameters
   
 | Prompt | Usage |
 | --- | --- |
