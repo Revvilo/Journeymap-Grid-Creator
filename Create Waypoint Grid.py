@@ -10,12 +10,12 @@ print()
 for i, file in enumerate(files):
     print('[{}] {}'.format(i, file))
 
-print('\nChoose a file #\n')
+print('\nChoose a source waypoint\nThis will be the top left of the grid (if not using negative offsets) #\n')
 chosen_file_number = int(input('File # >> '))
 offset_x = int(input('X Offset >> '))
 offset_z = int(input('Z Offset >> '))
-grid_w = int(input('Grid Height >> '))
-grid_h = int(input('Grid Width >> '))
+grid_w = int(input('Grid Width >> '))
+grid_h = int(input('Grid Height >> '))
 
 chosen_file = files[chosen_file_number]
 
