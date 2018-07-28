@@ -1,5 +1,5 @@
 # Journeymap Grid Creator
-A quick script I whipped up to make a grid from a bottom-left starting waypoint  
+A quick script I whipped up to make a grid from a top-left starting waypoint  
 *keyword "whipped" up ;P - alot of stuff will probably break it, most notably negative offsets to flip the grid's location relative to the source point - completely untested.*
 
 ## Usage
