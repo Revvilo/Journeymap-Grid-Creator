@@ -29,3 +29,7 @@ A quick script I whipped up to make a grid from a top-left starting waypoint
 | **Z Offset** | How much vertical space there is between each point |
 | **Grid Width** | How many horizontal points the grid has |
 | **Grid Height** | How many vertical points the grid has |
+
+## Pics
+<img src="https://cdn.discordapp.com/attachments/225859920166125568/472293330928140298/unknown.png" width="500px">
+<img src="https://cdn.discordapp.com/attachments/225859920166125568/472295613971693569/unknown.png" width="500px">
